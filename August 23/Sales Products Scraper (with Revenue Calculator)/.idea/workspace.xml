@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d82cbfaa-3ca5-4235-8098-51ea17a32947" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/input/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/Chemist Warehouse Products Scraper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/Chemist Warehouse Products Scraper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/spiders/chemistwarehouse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/spiders/chemistwarehouse_sku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/Dogstshirts Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym. Fitness/Black-Shirt-Act-Like-a-Lady.-Lift-like-a-Boss-Workout.-Gym.-Fitness.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym. Fitness/Gold Shirt Act Like a Lady. Lift like a Boss Workout. Gym. Fitness.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym. Fitness/White Shirt Act Like a Lady. Lift like a Boss Workout. Gym. Fitness.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym/Black-Shirt-Act-Like-a-Lady.-Lift-like-a-Boss-Workout.-Gym.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym/Gold Shirt Act Like a Lady. Lift like a Boss Workout. Gym.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Act Like a Lady. Lift like a Boss Workout. Gym/White Shirt Act Like a Lady. Lift like a Boss Workout. Gym.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ball Park Mama. Baseball Softball Mother_s Day Mom/Black-Shirt-Ball-Park-Mama.-Baseball-Softball-Mother_s-Day-Mom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ball Park Mama. Baseball Softball Mother_s Day Mom/Gold Shirt Ball Park Mama. Baseball Softball Mother_s Day Mom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ball Park Mama. Baseball Softball Mother_s Day Mom/White Shirt Ball Park Mama. Baseball Softball Mother_s Day Mom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Body contains Aftermarket Parts. Knee Replacement/Black-Shirt-Body-contains-Aftermarket-Parts.-Knee-Replacement.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Body contains Aftermarket Parts. Knee Replacement/Gold Shirt Body contains Aftermarket Parts. Knee Replacement.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Body contains Aftermarket Parts. Knee Replacement/White Shirt Body contains Aftermarket Parts. Knee Replacement.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Building Generational Wealth. Money. Income. Job. MLM/Black-Shirt-Building-Generational-Wealth.-Money.-Income.-Job.-MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Building Generational Wealth. Money. Income. Job. MLM/Gold Shirt Building Generational Wealth. Money. Income. Job. MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Building Generational Wealth. Money. Income. Job. MLM/White Shirt Building Generational Wealth. Money. Income. Job. MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/CMO Chief Marrying Officer. Officiant. Preacher. Wedding Premium/Black-Shirt-CMO-Chief-Marrying-Officer.-Officiant.-Preacher.-Wedding-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/CMO Chief Marrying Officer. Officiant. Preacher. Wedding Premium/Gold Shirt CMO Chief Marrying Officer. Officiant. Preacher. Wedding Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/CMO Chief Marrying Officer. Officiant. Preacher. Wedding Premium/White Shirt CMO Chief Marrying Officer. Officiant. Preacher. Wedding Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cancer Survivor Warrior Oncology Leukemia Breast Chemo Premium/Black-Shirt-Cancer-Survivor-Warrior-Oncology-Leukemia-Breast-Chemo-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cancer Survivor Warrior Oncology Leukemia Breast Chemo Premium/Gold Shirt Cancer Survivor Warrior Oncology Leukemia Breast Chemo Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cancer Survivor Warrior Oncology Leukemia Breast Chemo Premium/White Shirt Cancer Survivor Warrior Oncology Leukemia Breast Chemo Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near Raglan/Black-Shirt-Cardinals-Appear-When-Angels-Are-Near-Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near Raglan/Gold Shirt Cardinals Appear When Angels Are Near Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near Raglan/White Shirt Cardinals Appear When Angels Are Near Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near/Black-Shirt-Cardinals-Appear-When-Angels-Are-Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near/Gold Shirt Cardinals Appear When Angels Are Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cardinals Appear When Angels Are Near/White Shirt Cardinals Appear When Angels Are Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Christian Bible Verse Religious Church Godly/Black-Shirt-Christian-Bible-Verse-Religious-Church-Godly.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Christian Bible Verse Religious Church Godly/Gold Shirt Christian Bible Verse Religious Church Godly.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Christian Bible Verse Religious Church Godly/White Shirt Christian Bible Verse Religious Church Godly.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Co workers Please act your wage/Black-Shirt-Co-workers-Please-act-your-wage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Co workers Please act your wage/Gold Shirt Co workers Please act your wage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Co workers Please act your wage/White Shirt Co workers Please act your wage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cowpens South Carolina. Mighty Moo Festival. SC Cow/Black-Shirt-Cowpens-South-Carolina.-Mighty-Moo-Festival.-SC-Cow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cowpens South Carolina. Mighty Moo Festival. SC Cow/Gold Shirt Cowpens South Carolina. Mighty Moo Festival. SC Cow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Cowpens South Carolina. Mighty Moo Festival. SC Cow/White Shirt Cowpens South Carolina. Mighty Moo Festival. SC Cow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Enjoy Jesus Christ. Thou Shall Never Thirst Premium/Black-Shirt-Enjoy-Jesus-Christ.-Thou-Shall-Never-Thirst-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Enjoy Jesus Christ. Thou Shall Never Thirst Premium/Gold Shirt Enjoy Jesus Christ. Thou Shall Never Thirst Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Enjoy Jesus Christ. Thou Shall Never Thirst Premium/White Shirt Enjoy Jesus Christ. Thou Shall Never Thirst Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Hanging with my Heifers. Cow. Bull Cowpens SC Mighty Moo/Black-Shirt-Hanging-with-my-Heifers.-Cow.-Bull-Cowpens-SC-Mighty-Moo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Hanging with my Heifers. Cow. Bull Cowpens SC Mighty Moo/Gold Shirt Hanging with my Heifers. Cow. Bull Cowpens SC Mighty Moo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Hanging with my Heifers. Cow. Bull Cowpens SC Mighty Moo/White Shirt Hanging with my Heifers. Cow. Bull Cowpens SC Mighty Moo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Holy Enough To Pray With You. Hood Enough To Swing On You/Black-Shirt-Holy-Enough-To-Pray-With-You.-Hood-Enough-To-Swing-On-You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Holy Enough To Pray With You. Hood Enough To Swing On You/Gold Shirt Holy Enough To Pray With You. Hood Enough To Swing On You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Holy Enough To Pray With You. Hood Enough To Swing On You/White Shirt Holy Enough To Pray With You. Hood Enough To Swing On You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Kneel For One Man. Cross. Christian Religious/Black-Shirt-I-Kneel-For-One-Man.-Cross.-Christian-Religious.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Kneel For One Man. Cross. Christian Religious/Gold Shirt I Kneel For One Man. Cross. Christian Religious.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Kneel For One Man. Cross. Christian Religious/White Shirt I Kneel For One Man. Cross. Christian Religious.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Teach Tiny Humans. What_s Your Super Power-/Black-Shirt-I-Teach-Tiny-Humans.-What_s-Your-Super-Power-.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Teach Tiny Humans. What_s Your Super Power-/Gold Shirt I Teach Tiny Humans. What_s Your Super Power-.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I Teach Tiny Humans. What_s Your Super Power-/White Shirt I Teach Tiny Humans. What_s Your Super Power-.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am a lucky daughter I have an awesome dad/Black-Shirt-I-am-a-lucky-daughter-I-have-an-awesome-dad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am a lucky daughter I have an awesome dad/Gold Shirt I am a lucky daughter I have an awesome dad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am a lucky daughter I have an awesome dad/White Shirt I am a lucky daughter I have an awesome dad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am just out here trusting God. Religious. Christian/Black-Shirt-I-am-just-out-here-trusting-God.-Religious.-Christian.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am just out here trusting God. Religious. Christian/Gold Shirt I am just out here trusting God. Religious. Christian.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I am just out here trusting God. Religious. Christian/White Shirt I am just out here trusting God. Religious. Christian.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I can go from Southern Belle to Ghetto Thug Faster/Black-Shirt-I-can-go-from-Southern-Belle-to-Ghetto-Thug-Faster.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I can go from Southern Belle to Ghetto Thug Faster/Gold Shirt I can go from Southern Belle to Ghetto Thug Faster.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I can go from Southern Belle to Ghetto Thug Faster/White Shirt I can go from Southern Belle to Ghetto Thug Faster.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I don_t ADVISE I NOTARIZE. Public Notary Signing Agent/Black-Shirt-I-don_t-ADVISE-I-NOTARIZE.-Public-Notary-Signing-Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I don_t ADVISE I NOTARIZE. Public Notary Signing Agent/Gold Shirt I don_t ADVISE I NOTARIZE. Public Notary Signing Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I don_t ADVISE I NOTARIZE. Public Notary Signing Agent/White Shirt I don_t ADVISE I NOTARIZE. Public Notary Signing Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I may be Black Sheep Of The Family. Truth. Funny Shirt/Black-Shirt-I-may-be-Black-Sheep-Of-The-Family.-Truth.-Funny-Shirt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I may be Black Sheep Of The Family. Truth. Funny Shirt/Gold Shirt I may be Black Sheep Of The Family. Truth. Funny Shirt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I may be Black Sheep Of The Family. Truth. Funny Shirt/White Shirt I may be Black Sheep Of The Family. Truth. Funny Shirt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I_m Still A Trump Girl Make No Apologies Patriotic American/Black-Shirt-I_m-Still-A-Trump-Girl-Make-No-Apologies-Patriotic-American.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I_m Still A Trump Girl Make No Apologies Patriotic American/Gold Shirt I_m Still A Trump Girl Make No Apologies Patriotic American.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/I_m Still A Trump Girl Make No Apologies Patriotic American/White Shirt I_m Still A Trump Girl Make No Apologies Patriotic American.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right Premium/Black-Shirt-If-Lovin-Jesus-Is-Wrong-I-Don_t-want-to-be-Right-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right Premium/Gold Shirt If Lovin Jesus Is Wrong I Don_t want to be Right Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right Premium/White Shirt If Lovin Jesus Is Wrong I Don_t want to be Right Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right/Black-Shirt-If-Lovin-Jesus-Is-Wrong-I-Don_t-want-to-be-Right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right/Gold Shirt If Lovin Jesus Is Wrong I Don_t want to be Right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/If Lovin Jesus Is Wrong I Don_t want to be Right/White Shirt If Lovin Jesus Is Wrong I Don_t want to be Right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/JB Is a Puppet. Anti-Biden Pro-Trump Anti Biden Pro Trump/Black-Shirt-JB-Is-a-Puppet.-Anti-Biden-Pro-Trump-Anti-Biden-Pro-Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/JB Is a Puppet. Anti-Biden Pro-Trump Anti Biden Pro Trump/Gold Shirt JB Is a Puppet. Anti-Biden Pro-Trump Anti Biden Pro Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/JB Is a Puppet. Anti-Biden Pro-Trump Anti Biden Pro Trump/White Shirt JB Is a Puppet. Anti-Biden Pro-Trump Anti Biden Pro Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Jesus Facts and Ingredients Premium/Black-Shirt-Jesus-Facts-and-Ingredients-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Jesus Facts and Ingredients Premium/Gold Shirt Jesus Facts and Ingredients Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Jesus Facts and Ingredients Premium/White Shirt Jesus Facts and Ingredients Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Joe Biden is NOT My President. Puppet. Pelosi Trump 2020/Black-Shirt-Joe-Biden-is-NOT-My-President.-Puppet.-Pelosi-Trump-2020.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Joe Biden is NOT My President. Puppet. Pelosi Trump 2020/Gold Shirt Joe Biden is NOT My President. Puppet. Pelosi Trump 2020.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Joe Biden is NOT My President. Puppet. Pelosi Trump 2020/White Shirt Joe Biden is NOT My President. Puppet. Pelosi Trump 2020.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Kinda Classy Kinda Hood Mother_s Day Christmas Birthday Raglan/Black-Shirt-Kinda-Classy-Kinda-Hood-Mother_s-Day-Christmas-Birthday-Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Kinda Classy Kinda Hood Mother_s Day Christmas Birthday Raglan/Gold Shirt Kinda Classy Kinda Hood Mother_s Day Christmas Birthday Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Kinda Classy Kinda Hood Mother_s Day Christmas Birthday Raglan/White Shirt Kinda Classy Kinda Hood Mother_s Day Christmas Birthday Raglan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Lawd Back it up Terry Put it In Reverse. 4th July birthday/Black-Shirt-Lawd-Back-it-up-Terry-Put-it-In-Reverse.-4th-July-birthday.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Lawd Back it up Terry Put it In Reverse. 4th July birthday/Gold Shirt Lawd Back it up Terry Put it In Reverse. 4th July birthday.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Lawd Back it up Terry Put it In Reverse. 4th July birthday/White Shirt Lawd Back it up Terry Put it In Reverse. 4th July birthday.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Notary Public. Notary Signing Agent/Black-Shirt-Mobile-Notary.-Notary-Public.-Notary-Signing-Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Notary Public. Notary Signing Agent/Gold Shirt Mobile Notary. Notary Public. Notary Signing Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Notary Public. Notary Signing Agent/White Shirt Mobile Notary. Notary Public. Notary Signing Agent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Signing Agent . Notarize seal/Black-Shirt-Mobile-Notary.-Signing-Agent-.-Notarize-seal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Signing Agent . Notarize seal/Gold Shirt Mobile Notary. Signing Agent . Notarize seal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. Signing Agent . Notarize seal/White Shirt Mobile Notary. Signing Agent . Notarize seal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. We Come To You/Black-Shirt-Mobile-Notary.-We-Come-To-You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. We Come To You/Gold Shirt Mobile Notary. We Come To You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Mobile Notary. We Come To You/White Shirt Mobile Notary. We Come To You.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/My weight is none of your business unless I sit on your face/Black-Shirt-My-weight-is-none-of-your-business-unless-I-sit-on-your-face.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/My weight is none of your business unless I sit on your face/Gold Shirt My weight is none of your business unless I sit on your face.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/My weight is none of your business unless I sit on your face/White Shirt My weight is none of your business unless I sit on your face.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Notary Signing Agent. notarize signature mobile/Black-Shirt-Notary-Signing-Agent.-notarize-signature-mobile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Notary Signing Agent. notarize signature mobile/Gold Shirt Notary Signing Agent. notarize signature mobile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Notary Signing Agent. notarize signature mobile/White Shirt Notary Signing Agent. notarize signature mobile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Now I Lay Me Down To Sleep Beside My Bed/Black-Shirt-Now-I-Lay-Me-Down-To-Sleep-Beside-My-Bed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Now I Lay Me Down To Sleep Beside My Bed/Gold Shirt Now I Lay Me Down To Sleep Beside My Bed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Now I Lay Me Down To Sleep Beside My Bed/White Shirt Now I Lay Me Down To Sleep Beside My Bed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ordained Minister. Wedding Officiant. Marriage Married/Black-Shirt-Ordained-Minister.-Wedding-Officiant.-Marriage-Married.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ordained Minister. Wedding Officiant. Marriage Married/Gold Shirt Ordained Minister. Wedding Officiant. Marriage Married.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Ordained Minister. Wedding Officiant. Marriage Married/White Shirt Ordained Minister. Wedding Officiant. Marriage Married.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu Premium/Black-Shirt-Other-Wedding-Officiants-and-Me.-Marriage-Preacher-Notary-Pu-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu Premium/Gold Shirt Other Wedding Officiants and Me. Marriage Preacher Notary Pu Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu Premium/White Shirt Other Wedding Officiants and Me. Marriage Preacher Notary Pu Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu/Black-Shirt-Other-Wedding-Officiants-and-Me.-Marriage-Preacher-Notary-Pu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu/Gold Shirt Other Wedding Officiants and Me. Marriage Preacher Notary Pu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Other Wedding Officiants and Me. Marriage Preacher Notary Pu/White Shirt Other Wedding Officiants and Me. Marriage Preacher Notary Pu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Poppin My Way Through 100 Days of School. Student teacher/Black-Shirt-Poppin-My-Way-Through-100-Days-of-School.-Student-teacher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Poppin My Way Through 100 Days of School. Student teacher/Gold Shirt Poppin My Way Through 100 Days of School. Student teacher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Poppin My Way Through 100 Days of School. Student teacher/White Shirt Poppin My Way Through 100 Days of School. Student teacher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Proud to be an American Embarrassed by. Anti-Biden Pro-Trump/Black-Shirt-Proud-to-be-an-American-Embarrassed-by.-Anti-Biden-Pro-Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Proud to be an American Embarrassed by. Anti-Biden Pro-Trump/Gold Shirt Proud to be an American Embarrassed by. Anti-Biden Pro-Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Proud to be an American Embarrassed by. Anti-Biden Pro-Trump/White Shirt Proud to be an American Embarrassed by. Anti-Biden Pro-Trump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Relish. Sweet Jesus. Let_s Exalt His Name Together. Psalm 34/Black-Shirt-Relish.-Sweet-Jesus.-Let_s-Exalt-His-Name-Together.-Psalm-34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Relish. Sweet Jesus. Let_s Exalt His Name Together. Psalm 34/Gold Shirt Relish. Sweet Jesus. Let_s Exalt His Name Together. Psalm 34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Relish. Sweet Jesus. Let_s Exalt His Name Together. Psalm 34/White Shirt Relish. Sweet Jesus. Let_s Exalt His Name Together. Psalm 34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Respiratory Therapist. Hot enough to take your breath away/Black-Shirt-Respiratory-Therapist.-Hot-enough-to-take-your-breath-away.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Respiratory Therapist. Hot enough to take your breath away/Gold Shirt Respiratory Therapist. Hot enough to take your breath away.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Respiratory Therapist. Hot enough to take your breath away/White Shirt Respiratory Therapist. Hot enough to take your breath away.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Rooted in Christ/Black-Shirt-Rooted-in-Christ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Rooted in Christ/Gold Shirt Rooted in Christ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Rooted in Christ/White Shirt Rooted in Christ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Small Town Heifer. Cowpens SC South Carolina. Battleground/Black-Shirt-Small-Town-Heifer.-Cowpens-SC-South-Carolina.-Battleground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Small Town Heifer. Cowpens SC South Carolina. Battleground/Gold Shirt Small Town Heifer. Cowpens SC South Carolina. Battleground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Small Town Heifer. Cowpens SC South Carolina. Battleground/White Shirt Small Town Heifer. Cowpens SC South Carolina. Battleground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Straight Outta Shape But Heifer I am Trying/Black-Shirt-Straight-Outta-Shape-But-Heifer-I-am-Trying.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Straight Outta Shape But Heifer I am Trying/Gold Shirt Straight Outta Shape But Heifer I am Trying.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Straight Outta Shape But Heifer I am Trying/White Shirt Straight Outta Shape But Heifer I am Trying.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/That_s my Nephew Out There Baseball Pitcher Catcher Player H/Black-Shirt-That_s-my-Nephew-Out-There-Baseball-Pitcher-Catcher-Player-H.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/That_s my Nephew Out There Baseball Pitcher Catcher Player H/Gold Shirt That_s my Nephew Out There Baseball Pitcher Catcher Player H.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/That_s my Nephew Out There Baseball Pitcher Catcher Player H/White Shirt That_s my Nephew Out There Baseball Pitcher Catcher Player H.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public Premium/Black-Shirt-This-guy-is-the-offiant.-Wedding-Preacher-Notary-Public-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public Premium/Gold Shirt This guy is the offiant. Wedding Preacher Notary Public Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public Premium/White Shirt This guy is the offiant. Wedding Preacher Notary Public Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public/Black-Shirt-This-guy-is-the-offiant.-Wedding-Preacher-Notary-Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public/Gold Shirt This guy is the offiant. Wedding Preacher Notary Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/This guy is the offiant. Wedding Preacher Notary Public/White Shirt This guy is the offiant. Wedding Preacher Notary Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Trump Girl. Lips Patriotic USA Flag Red White Blue/Black-Shirt-Trump-Girl.-Lips-Patriotic-USA-Flag-Red-White-Blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Trump Girl. Lips Patriotic USA Flag Red White Blue/Gold Shirt Trump Girl. Lips Patriotic USA Flag Red White Blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Trump Girl. Lips Patriotic USA Flag Red White Blue/White Shirt Trump Girl. Lips Patriotic USA Flag Red White Blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Two Things Every American Should Know How To Use/Black-Shirt-Two-Things-Every-American-Should-Know-How-To-Use.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Two Things Every American Should Know How To Use/Gold Shirt Two Things Every American Should Know How To Use.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Two Things Every American Should Know How To Use/White Shirt Two Things Every American Should Know How To Use.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public Premium/Black-Shirt-Wedding-Officiant.-Marriage-Marry-Preacher-Notary-Public-Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public Premium/Gold Shirt Wedding Officiant. Marriage Marry Preacher Notary Public Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public Premium/White Shirt Wedding Officiant. Marriage Marry Preacher Notary Public Premium.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public/Black-Shirt-Wedding-Officiant.-Marriage-Marry-Preacher-Notary-Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public/Gold Shirt Wedding Officiant. Marriage Marry Preacher Notary Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Wedding Officiant. Marriage Marry Preacher Notary Public/White Shirt Wedding Officiant. Marriage Marry Preacher Notary Public.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Witch Debra Halloween Personalized/Black-Shirt-Witch-Debra-Halloween-Personalized.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Witch Debra Halloween Personalized/Gold Shirt Witch Debra Halloween Personalized.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Witch Debra Halloween Personalized/White Shirt Witch Debra Halloween Personalized.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Building Generational Wealth. Money. Income. Job. MLM/Black-Shirt-Womens-Building-Generational-Wealth.-Money.-Income.-Job.-MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Building Generational Wealth. Money. Income. Job. MLM/Gold Shirt Womens Building Generational Wealth. Money. Income. Job. MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Building Generational Wealth. Money. Income. Job. MLM/White Shirt Womens Building Generational Wealth. Money. Income. Job. MLM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Cardinals Appear When Angels Are Near/Black-Shirt-Womens-Cardinals-Appear-When-Angels-Are-Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Cardinals Appear When Angels Are Near/Gold Shirt Womens Cardinals Appear When Angels Are Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Cardinals Appear When Angels Are Near/White Shirt Womens Cardinals Appear When Angels Are Near.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Domestic Violence Awareness. I am the storm/Black-Shirt-Womens-Domestic-Violence-Awareness.-I-am-the-storm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Domestic Violence Awareness. I am the storm/Gold Shirt Womens Domestic Violence Awareness. I am the storm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Domestic Violence Awareness. I am the storm/White Shirt Womens Domestic Violence Awareness. I am the storm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Faith It Till You Make It/Black-Shirt-Womens-Faith-It-Till-You-Make-It.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Faith It Till You Make It/Gold Shirt Womens Faith It Till You Make It.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/input/designs/Womens Faith It Till You Make It/White Shirt Womens Faith It Till You Make It.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts Project/method.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2UWdYkQAHauBQMSwlCk8Pnn3Qkh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Wrok/grw_office/Office_Grw/August 23/Chemist Warehouse Products Scraper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.thalia">
+    <configuration name="ibood" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sales Products Scraper (with Revenue Calculator)" />
+      <option name="INTERPRETER_OPTIONS" value="-Xfrozen_modules=off" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sales_products/sales_products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../env/Scripts/scrapy" />
+      <option name="PARAMETERS" value="crawl ibood" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="muller" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sales Products Scraper (with Revenue Calculator)" />
+      <option name="INTERPRETER_OPTIONS" value="-Xfrozen_modules=off" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sales_products/sales_products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../env/Scripts/scrapy" />
+      <option name="PARAMETERS" value="crawl muller" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="radwelt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sales Products Scraper (with Revenue Calculator)" />
+      <option name="INTERPRETER_OPTIONS" value="-Xfrozen_modules=off" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sales_products/sales_products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../env/Scripts/scrapy" />
+      <option name="PARAMETERS" value="crawl radwelt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thalia" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sales Products Scraper (with Revenue Calculator)" />
+      <option name="INTERPRETER_OPTIONS" value="-Xfrozen_modules=off" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sales_products/sales_products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../env/Scripts/scrapy" />
+      <option name="PARAMETERS" value="crawl thalia" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.muller" />
+      <item itemvalue="Python.thalia" />
+      <item itemvalue="Python.ibood" />
+      <item itemvalue="Python.radwelt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.radwelt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82cbfaa-3ca5-4235-8098-51ea17a32947" name="Changes" comment="" />
+      <created>1693059326170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693059326170</updated>
+      <workItem from="1693059344987" duration="6484000" />
+      <workItem from="1693300861640" duration="852000" />
+      <workItem from="1693310151733" duration="1570000" />
+      <workItem from="1693315468493" duration="1079000" />
+      <workItem from="1693915309446" duration="766000" />
+      <workItem from="1694068074835" duration="20000" />
+      <workItem from="1694069951571" duration="675000" />
+      <workItem from="1694082247498" duration="709000" />
+      <workItem from="1694436373310" duration="7675000" />
+      <workItem from="1694502557709" duration="3603000" />
+      <workItem from="1695129862756" duration="229000" />
+      <workItem from="1695889060107" duration="2056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sales_products/sales_products/spiders/ibood.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sales_products/sales_products/spiders/base.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sales_products/sales_products/spiders/ibood.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sales_products/sales_products/spiders/base.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sales_products/sales_products/spiders/thalia.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

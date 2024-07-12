@@ -1,0 +1,3 @@
+googlesheet_id==11DpC5ey2LMNijiT4Tkh9Rf59ezLZz0bPh02xLQiKSw8
+tab_name==Sneaker News Articles
+tab_id==0

@@ -1,0 +1,3 @@
+googlesheet_id==1Bq3p2_Yko9a7_bf6snTDEHEWcYNBv06G-MDGKavKsIE
+tab_name==Techno Science
+tab_id==0

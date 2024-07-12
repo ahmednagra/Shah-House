@@ -1,0 +1,154 @@
+import csv
+import os
+
+from scrapy import Request, Spider
+from collections import OrderedDict
+
+from googleapiclient.discovery import build
+from oauth2client.service_account import ServiceAccountCredentials
+import gsheets
+
+
+class SneakerSpider(Spider):
+    name = 'sneaker'
+    start_urls = ['https://sneakernews.com/']
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
+                      "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
+
+        self.creds = ServiceAccountCredentials.from_json_keyfile_name('input/google_credentials.json', self.scope)
+        self.gsheet_config = self.get_key_values_from_file('input/googlesheet_keys.txt')
+        google_sheet_data = self.get_googlesheet_data()
+        self.previous_gsheet_scraped_items_urls = [item['URL'] for item in google_sheet_data]
+        self.current_scraped_items = []
+
+    def parse(self, response, **kwargs):
+        article_urls = response.css(
+            '.popular-stories-list__title a::attr(href), .upcoming-releases__title a::attr(href), .latest-news-v2__content a::attr(href)').getall() or []
+        for article_url in article_urls:
+
+            if article_url in self.previous_gsheet_scraped_items_urls:
+                continue
+
+            yield Request(url=article_url, callback=self.parse_article)
+
+    def parse_article(self, response):
+        item = OrderedDict()
+
+        item['Title'] = response.css('.wrapper h1::text').get('').strip()
+        item['Intro'] = response.css('.artical-main .wrapper p::text').get('').strip()
+        item['Image'] = response.css('[property="og:image"]::attr(content)').get('')
+        item['Content'] = '\n\n'.join(response.css('.sneaker-post-content p').getall())
+        item['Name'] = response.css('.prod-row-header h2 strong::text').get('').strip()
+        item['SKU'] = response.css('.prod-cat-subtitle span:contains(SKU) + strong::text ').get('')
+        item['RETAIL PRICE'] = response.css('.prod-cat-subtitle span:contains("RETAIL PRICE:") + strong::text').get('')
+        item['RELEASE DATE'] = response.css('.prod-cat-subtitle span:contains("RELEASE DATE:") + strong::text').get('')
+        item['Shop'] = response.css('.retailer-col a::text').get('')
+        item['Check site link'] = response.css('.tbl-btn-wrapper a::attr(href)').get('')
+        item['Images of Shoes'] = ', '.join(response.css('.gallery-icon.landscape img::attr(src)').getall()) or ''
+        item['Tags'] = ', '.join(response.css('.article-tag-section li ::text').getall())
+        item['URL'] = response.url
+
+        self.current_scraped_items.append(item)
+
+    def close(spider, reason):
+        spider.update_google_sheet()
+
+    def get_key_values_from_file(self, file_path):
+        """
+        Get the Google sheet keys and Search URLs keys  from input text file
+        """
+
+        with open(file_path, mode='r', encoding='utf-8') as input_file:
+            data = {}
+
+            for row in input_file.readlines():
+                if not row.strip():
+                    continue
+
+                try:
+                    key, value = row.strip().split('==')
+                    data.setdefault(key.strip(), value.strip())
+                except ValueError:
+                    pass
+
+            return data
+
+    def get_googlesheet_data(self):
+        filename = 'G_Sheet Data/previous_gsheet.csv'
+
+        self.download_google_sheet_data_as_csv(filename)
+
+        with open(filename, mode='r', encoding='utf-8') as data_file:
+            data = csv.DictReader(data_file)
+            columns = data.fieldnames
+            return [row for row in data]
+
+    def download_google_sheet_data_as_csv(self, filename):
+        spreadsheet_id = self.gsheet_config.get('googlesheet_id')
+
+        gsheet_url = f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}"
+
+        sheets = gsheets.Sheets(self.creds)
+        sheet = sheets.get(gsheet_url)
+        sheet[0].to_csv(filename)
+
+    def update_google_sheet(self):
+        if not self.current_scraped_items:
+            self.logger.debug('\n\nThere is no new article found...!!!\n\n')
+            return
+
+        columns = [[col for col in row.keys()] for row in self.current_scraped_items][:1]
+        rows_values = [[value for value in row.values()] for row in self.current_scraped_items]
+
+        spreadsheet_id = self.gsheet_config.get('googlesheet_id')
+        tab_sheet_name = self.gsheet_config.get(f'tab_name')
+
+        service = build('sheets', 'v4', credentials=self.creds)
+        sheet_range = tab_sheet_name
+
+        gsheet_headers = self.gsheet_fileheaders()
+
+        if not gsheet_headers:
+            gsheet_headers = columns[0]
+
+            # Append headers
+            service.spreadsheets().values().append(
+                spreadsheetId=spreadsheet_id,
+                range=sheet_range,
+                body={
+                    "majorDimension": "ROWS",
+                    "values": [gsheet_headers]  # Add headers as a single row
+                },
+                valueInputOption="USER_ENTERED"
+            ).execute()
+
+        # append data
+        service.spreadsheets().values().append(
+            spreadsheetId=spreadsheet_id,
+            range=sheet_range,
+            body={
+                "majorDimension": "ROWS",
+                "values": rows_values  # representing each row values as list. So it contains as list of lists
+            },
+            valueInputOption="USER_ENTERED"
+        ).execute()
+
+        self.logger.debug(f'\n\nNew Articles Found: "{len(self.current_scraped_items)}"')
+        self.logger.debug(f'Google Sheet "{tab_sheet_name}" has been updated\n\n')
+
+    def gsheet_fileheaders(self):
+        try:
+            csv_file_path = 'G_Sheet Data/previous_gsheet.csv'
+        except:
+            csv_file_path = ''
+
+        existing_headers = []
+        if os.path.exists(csv_file_path):
+            with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
+                reader = csv.reader(csvfile)
+                existing_headers = next(reader, [])  # Read the first row as headers
+
+        return existing_headers

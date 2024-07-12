@@ -1,0 +1,1 @@
+web: gunicorn Right_Move_Website.wsgi

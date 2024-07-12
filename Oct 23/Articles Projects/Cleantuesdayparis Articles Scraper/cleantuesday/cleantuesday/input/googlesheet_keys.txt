@@ -1,0 +1,3 @@
+googlesheet_id==1bnfXTz2AJPr_MuyvM5kswYW0LXQGvPUwIjbMPvvxgc8
+tab_name==cleantuesdayparis
+tab_id==0

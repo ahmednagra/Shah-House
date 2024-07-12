@@ -1,0 +1,56 @@
+Address,street number,Type,Rooms,Size (m2),Agency url,Agency name
+Jääkärinkatu,3,398 000 €,3,51.00 ,https://kotimeklarit.com/asunto/20970026_jaakarinkatu-3ullanlinna/,kotimeklarit
+Eerikinkatu,43,145 000 €,,43.50 ,https://kotimeklarit.com/asunto/20821069_eerikinkatu-43kamppi/,kotimeklarit
+Linjaloistonkatu,5,309 000 €,3,68.50 ,https://kotimeklarit.com/asunto/21994938_linjaloistonkatu-5saunalahti/,kotimeklarit
+Kinaporinkatu,5,179 000 €,1,24.00 ,https://kotimeklarit.com/asunto/21611861_kinaporinkatu-5harju/,kotimeklarit
+Länsituuli,10,921 000 €,4,96.00 ,https://kotimeklarit.com/asunto/20600348_lansituuli-10tapiola/,kotimeklarit
+Ruusulankatu,11,169 000 €,1,22.50 ,https://kotimeklarit.com/asunto/21481766_ruusulankatu-11taka-toolo/,kotimeklarit
+Kirjatyöntekijänkatu,4,448 000 €,2,54.30 ,https://kotimeklarit.com/asunto/20866506_kirjatyontekijankatu-4kruununhaka/,kotimeklarit
+Alppikatu,9,289 000 €,2,40.50 ,https://kotimeklarit.com/asunto/21366920_alppikatu-9kallio/,kotimeklarit
+Vilhonvuorenkatu,7-9,325 000 €,1,49.00 ,https://kotimeklarit.com/asunto/9982663_vilhonvuorenkatu-7-9sornainen/,kotimeklarit
+Eteläinen,,139 000 €,,40.50 ,https://kotimeklarit.com/asunto/20970887_etelainen-rautatiekatu-16kamppi/,kotimeklarit
+Merimiehenkatu,12,948 000 €,4,101.00 ,https://kotimeklarit.com/asunto/21227852_merimiehenkatu-12punavuori/,kotimeklarit
+Sturenkatu,9,239 000 €,1,36.00 ,https://kotimeklarit.com/asunto/20419767_sturenkatu-9alppila/,kotimeklarit
+Maistraatinkatu,5,299 000 €,3,74.50 ,https://kotimeklarit.com/asunto/21997989_maistraatinkatu-5pasila/,kotimeklarit
+Meritullinkatu,13,330 000 €,1,39.10 ,https://kotimeklarit.com/asunto/21657836_meritullinkatu-13kruununhaka/,kotimeklarit
+Tikasmäentie,25,1 590 000 €,5,197.00 ,https://kotimeklarit.com/asunto/21765774_tikasmaentie-25henttaa/,kotimeklarit
+Merikannontie,5,1 179 000 €,4,114.00 ,https://kotimeklarit.com/asunto/20917806_merikannontie-5toolo/,kotimeklarit
+Lielahdentie,4,598 000 €,4,86.00 ,https://kotimeklarit.com/asunto/20833358_lielahdentie-4lauttasaari/,kotimeklarit
+Halkosuontie,136,565 000 €,5,107.00 ,https://kotimeklarit.com/asunto/20717840_halkosuontie-136lansi-pakila/,kotimeklarit
+Korkeavuorenkatu,3,365 000 €,1,43.00 ,https://kotimeklarit.com/asunto/20175611_korkeavuorenkatu-3ullanlinna/,kotimeklarit
+Eteläranta,4,2 894 000 €,4,142.50 ,https://kotimeklarit.com/asunto/20580511_etelaranta-4kaartinkaupunki/,kotimeklarit
+Rajasaarentie,9,788 000 €,3,86.00 ,https://kotimeklarit.com/asunto/21621120_rajasaarentie-9taka-toolo/,kotimeklarit
+Albertinkatu,27,49 000 €,,0.00 ,https://kotimeklarit.com/asunto/21411406_albertinkatu-27punavuori/,kotimeklarit
+Jäkärlänkuja,4,299 000 €,4,100.00 ,https://kotimeklarit.com/asunto/21495881_jakarlankuja-4vesala/,kotimeklarit
+Maauunintie,27,99 000 €,2,58.50 ,https://kotimeklarit.com/asunto/20133485_maauunintie-27kulomaki/,kotimeklarit
+Vuorimiehenkatu,23,1 748 000 €,3,135.00 ,https://kotimeklarit.com/asunto/20706367_vuorimiehenkatu-23bullanlinna/,kotimeklarit
+Vuorimiehenkatu,23,649 000 €,3,68.50 ,https://kotimeklarit.com/asunto/20999202_vuorimiehenkatu-23bullanlinna/,kotimeklarit
+Ahventie,5,385 000 €,3,76.00 ,https://kotimeklarit.com/asunto/21807903_ahventie-5haukilahti/,kotimeklarit
+Lapinrinne,2,179 000 €,,116.00 ,https://kotimeklarit.com/asunto/20429048_lapinrinne-2kamppi/,kotimeklarit
+Jääkärinkatu,3,209 000 €,1,26.00 ,https://kotimeklarit.com/asunto/20145938_jaakarinkatu-3ullanlinna/,kotimeklarit
+Mellstenintie,2,808 500 €,3,77.00 ,https://kotimeklarit.com/asunto/21450312_mellstenintie-2haukilahti/,kotimeklarit
+Mellstenintie,2,1 531 750 €,4,124.50 ,https://kotimeklarit.com/asunto/20289537_mellstenintie-2haukilahti/,kotimeklarit
+Iso,,599 000 €,2,55.00 ,https://kotimeklarit.com/asunto/20664611_iso-roobertinkatu-1punavuori/,kotimeklarit
+Solnantie,2,1 260 000 €,5,152.00 ,https://kotimeklarit.com/asunto/21228595_solnantie-2munkkiniemi/,kotimeklarit
+Vuorimiehenkatu,31,459 000 €,2,50.50 ,https://kotimeklarit.com/asunto/21497801_vuorimiehenkatu-31ullanlinna/,kotimeklarit
+Mannerheimintie,33,450 000 €,1,91.00 ,https://kotimeklarit.com/asunto/20917727_mannerheimintie-33taka-toolo/,kotimeklarit
+Mannerheimintie,33,450 000 €,2,91.00 ,https://kotimeklarit.com/asunto/20345760_mannerheimintie-33taka-toolo/,kotimeklarit
+Maauunintie,27,95 000 €,2,58.50 ,https://kotimeklarit.com/asunto/20296744_maauunintie-27kulomaki/,kotimeklarit
+Rastaalanrinne,3,557 000 €,6,145.50 ,https://kotimeklarit.com/asunto/21992029_rastaalanrinne-3laaksolahti/,kotimeklarit
+Mellstenintie,2,729 750 €,3,69.50 ,https://kotimeklarit.com/asunto/21993513_mellstenintie-2haukilahti/,kotimeklarit
+Puistotie,2,499 000 €,4,204.00 ,https://kotimeklarit.com/asunto/20440473_puistotie-2taalintehdas/,kotimeklarit
+Mellstenintie,2,871 500 €,3,83.00 ,https://kotimeklarit.com/asunto/21804692_mellstenintie-2haukilahti/,kotimeklarit
+Mellstenintie,2,1 088 010 €,3,99.00 ,https://kotimeklarit.com/asunto/21827095_mellstenintie-2haukilahti/,kotimeklarit
+Mellstenintie,2,1 369 500 €,4,124.50 ,https://kotimeklarit.com/asunto/21879015_mellstenintie-2haukilahti/,kotimeklarit
+Heikkiläntie,1,18 500 €,,11.50 ,https://kotimeklarit.com/asunto/21368209_heikkilantie-1lauttasaari/,kotimeklarit
+Heikkiläntie,1,199 000 €,,58.50 ,https://kotimeklarit.com/asunto/21577705_heikkilantie-1lauttasaari/,kotimeklarit
+Albertinkatu,16,159 000 €,,64.00 ,https://kotimeklarit.com/asunto/9573745_albertinkatu-16punavuori/,kotimeklarit
+Ratakatu,9,398 000 €,2,42.00 ,https://kotimeklarit.com/asunto/21222637_ratakatu-9punavuori/,kotimeklarit
+Vilhonvuorenkuja,20,385 000 €,3,58.00 ,https://kotimeklarit.com/asunto/20733019_vilhonvuorenkuja-20sornainen-kallio-vilhonvuori/,kotimeklarit
+Merenkulkijankatu,7,170 000 €,2,58.50 ,https://kotimeklarit.com/asunto/20963358_merenkulkijankatu-7espoonlahti/,kotimeklarit
+Uudenmaankatu,26,2 200 €,2,100.00 ,https://kotimeklarit.com/asunto/20331503_uudenmaankatu-26punavuori/,kotimeklarit
+Kasarmikatu,1,850 €,1,27.00 ,https://kotimeklarit.com/asunto/20694884_kasarmikatu-1ullanlinna/,kotimeklarit
+Kristianinkatu,9,1 140 €,1,38.50 ,https://kotimeklarit.com/asunto/21894985_kristianinkatu-9kruununhaka/,kotimeklarit
+Rauhalanpuisto,6-8,895 €,2,50.00 ,https://kotimeklarit.com/asunto/21839251_rauhalanpuisto-6-8matinkyla/,kotimeklarit
+Piritanaukio,3,4 400 €,4,199.00 ,https://kotimeklarit.com/asunto/20230049_piritanaukio-3eiranranta/,kotimeklarit
+Korkeavuorenkatu,8,1 690 €,2,63.00 ,https://kotimeklarit.com/asunto/20316274_korkeavuorenkatu-8ullanlinna/,kotimeklarit

@@ -1,0 +1,18 @@
+ {
+   "scrapeops_api_key": "69407ad1-67b8-4a4f-8083-137167f3b908",
+   "db_name": "Mens Record",
+   "db_user": "postgres",
+   "db_password": "1234",
+   "db_host": "localhost",
+   "db_port": "5432",
+
+    "sneakersnstuff": {
+      "use_proxy": true,
+      "search_urls": ["https://www.sneakersnstuff.com/en/49/men", "https://www.sneakersnstuff.com/en/53/women"]
+    },
+
+	"stocks=x": {
+      "use_proxy": true,
+      "search_urls": ["https://stockx.com/sneakers?size_types=men"]
+    }
+  }

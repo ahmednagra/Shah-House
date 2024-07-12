@@ -1,0 +1,13 @@
+scrape public real estate listing data from selected websites and then insert the data in a dedicated worksheet. I also need the capability to refresh the data at any time, which does the following:
+
+- Remove all the rows in the main spreadsheet that contain any value in a specific cell (so basically all the rows that were added with the previous refresh)
+- Scrape listing details from real estate agents’ search results pages: address, size, number of rooms, price, link to the listing page, and a couple of static values which will be provided
+- Create a row for each listing in Excel with those values
+- One by one check if the values in one output row, and in two of the cells in particular, match the values of the same cells in two other spreadsheets. If yes, add the output row in the main spreadsheet in a specific placement. If not, ignore the output row and move on to the next.
+
+This task includes 15 websites where in 11 all the required data is visible in the source code, in 4 not (yet the listings are presented in a similar way on the websites).
+
+I have created detailed instructions for each webpage. Even though there are 15 sources, the amount of content to be scraped is very limited (1-20 listings per website), and on most websites it’s just one page and a couple of values to be collected. Most times the data is available on different websites in the same way and format, so no need to create 15 different scraping logics.
+
+
+More detailed instructions are added in the attached Excel file inside "Guidance" tab.

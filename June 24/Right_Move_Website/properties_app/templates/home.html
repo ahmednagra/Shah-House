@@ -1,0 +1,205 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right Move URL/File Processing</title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <style>
+        body {
+            height: 100vh;
+            background-image: url('{% static 'images/image1.jpg' %}');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        .container {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 50px auto;
+            max-width: 70%;
+        }
+        .error-message {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="text-center mb-4">Right Move URL/File Processing</h1>
+
+        <form id="processForm" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="mb-3">
+                <label for="urlInput" class="form-label">Enter Rightmove URL(s):</label>
+                <textarea class="form-control" id="urlInput" name="urlInput" rows="3" placeholder="Paste one or more Rightmove URLs (separated by line breaks)&#10;example:&#10;&nbsp;&nbsp;&nbsp;&nbsp;https://www.rightmove.co.uk/properties/144625019#/?channel=RES_LET"></textarea>
+                <div class="error-message text-danger fw-bold mt-2" id="urlError"></div>
+            </div>
+
+            <div class="mb-3">
+                <label for="fileInput" class="form-label">Upload a .txt file:</label>
+                <input type="file" class="form-control" id="fileInput" name="fileInput" accept=".txt">
+                <div class="error-message text-danger fw-bold mt-2" id="fileError"></div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Select Output Format:</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="outputFormat" id="outputCsv" value="csv" checked>
+                    <label class="form-check-label" for="outputCsv">CSV</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="outputFormat" id="outputPdf" value="pdf">
+                    <label class="form-check-label" for="outputPdf">PDF</label>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-center mt-lg-auto">
+                <button type="button" class="btn btn-success me-2" id="runScript" disabled>Run Script</button>
+            </div>
+
+            <div id="download-buttons" class="d-flex justify-content-center mt-4">
+              <button type="button" class="btn btn-primary me-2" id="download_files" disabled>Download Files</button>
+            </div>
+
+        </form>
+    </div>
+
+    <footer class="text-center text-white position-absolute bottom-0 w-100 p-2">
+        Shah House &copy; 2024
+    </footer>
+
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script>
+        // Event listener for URL input validation
+        document.getElementById('urlInput').addEventListener('input', function() {
+            const urls = this.value.trim().split(/\s+/);
+            const urlError = document.getElementById('urlError');
+            const hasRightmove = urls.some(url => url.toLowerCase().includes('rightmove'));
+
+            // Display error if no Rightmove URL is found
+            urlError.textContent = hasRightmove ? '' : 'URL must contain "rightmove"';
+            toggleRunButton();
+        });
+
+        // Event listener for file input validation
+        document.getElementById('fileInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            const fileError = document.getElementById('fileError');
+
+             // Validate file type
+            if (file && file.type !== 'text/plain') {
+                fileError.textContent = 'Please upload a valid .txt file.';
+                event.target.value = '';
+            } else {
+                fileError.textContent = '';
+                toggleRunButton();
+            }
+        });
+
+        // Function to toggle the "Run Script" button based on input validity
+        function toggleRunButton() {
+            const urlInput = document.getElementById('urlInput');
+            const fileInput = document.getElementById('fileInput');
+            const runScriptButton = document.getElementById('runScript');
+
+            const urlsValid = validateUrls(urlInput.value.trim());
+            const fileValid = validateFile(fileInput.files);
+
+            runScriptButton.disabled = !urlsValid && !fileValid;
+        }
+
+        // Function to validate URLs (must not be empty)
+        function validateUrls(urls) {
+            return urls.length > 0;
+        }
+
+        // Function to validate files (must have at least one file selected)
+        function validateFile(files) {
+            return files.length > 0;
+        }
+
+        // Event listener for "Run Script" button click
+        document.getElementById('runScript').addEventListener('click', function() {
+            const form = document.getElementById('processForm');
+            const outputFormat = document.querySelector('input[name="outputFormat"]:checked').value;
+
+            // Depending on output format (CSV or PDF), set form action and submit
+            if (outputFormat === 'csv') {
+                form.action = '{% url "process_csv" %}';
+                fetch('{% url "process_csv" %}', {
+                    method: 'POST',
+                    body: new FormData(form)
+                }).then(response => {
+                    console.log('Fetch response:', response);  // Log the entire response object
+
+                    // Check response status code
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+
+                    return response.json();  // Parse the response as JSON
+                }).then(data => {
+                    console.log('Received CSV file:', data.file_name);
+
+                    // Enable download button if CSV file is received
+                    const downloadFilesButton = document.getElementById('download_files');
+                    downloadFilesButton.disabled = false;
+
+                    // Assign the click event to trigger CSV download
+                    downloadFilesButton.addEventListener('click', function() {
+                        const url = `/download_file/${encodeURIComponent(data.file_name)}/`;
+                        const newTab = window.open(url, '_blank');
+
+                        // Check if newTab is not null before focusing
+                        if (newTab !== null) {
+                            newTab.focus();  // Focus on the new tab
+                        }
+                    });
+                }).catch(error => console.error('Error:', error));
+
+            } else {
+                fetch('{% url "process_pdf" %}', {
+                    method: 'POST',
+                    body: new FormData(form)
+                }).then(response => {
+                console.log('Fetch response:', response);  // Log the entire response object
+
+                // Check response status code
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                return response.json();  // Parse the response as JSON
+            }).then(data => {
+                console.log('Received PDF files:', data);
+
+                // Enable download button if PDF files are received
+                const downloadFilesButton = document.getElementById('download_files');
+                downloadFilesButton.disabled = false;
+
+                // Assign the click event to trigger download
+                downloadFilesButton.addEventListener('click', function() {
+                    data.pdf_files.forEach(file => {
+                        console.log('File:', file);
+                        const url = `/download_file/${encodeURIComponent(file)}/`;
+                        const newTab = window.open(url, '_blank');
+
+                        // Check if newTab is not null before focusing
+                        if (newTab !== null) {
+                            newTab.focus();  // Focus on the new tab
+                        }
+                    });
+                });
+            }).catch(error => console.error('Error:', error));
+            }
+        });
+    </script>
+</body>
+</html>

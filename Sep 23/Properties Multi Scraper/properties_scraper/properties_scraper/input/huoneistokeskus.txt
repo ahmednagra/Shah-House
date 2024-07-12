@@ -1,0 +1,6 @@
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Ullanlinna&&&NewProperty=include&service=Residences&top=12
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Punavuori&&&NewProperty=include&service=Residences&top=12
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Eira&&&NewProperty=include&service=Residences&top=12
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Kaivopuisto&&&NewProperty=include&service=Residences&top=12
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Kaartinkaupunki&&&NewProperty=include&service=Residences&top=12
+https://www.huoneistokeskus.fi/myytavat-asunnot?Location=Kamppi&&&NewProperty=include&service=Residences&top=12

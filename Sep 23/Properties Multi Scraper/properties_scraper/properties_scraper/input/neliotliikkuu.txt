@@ -1,0 +1,4 @@
+https://neliotliikkuu.fi/myytavat-asunnot/page/1/?_realtytype&kivi-item-asunto-osoite=Helsinki&kivi-item-asunto-hintamin&kivi-item-asunto-hintamax&kivi-item-asunto-pamin&submit=Hae
+https://neliotliikkuu.fi/myytavat-asunnot/page/2/?_realtytype&kivi-item-asunto-osoite=Helsinki&kivi-item-asunto-hintamin&kivi-item-asunto-hintamax&kivi-item-asunto-pamin&submit=Hae
+https://neliotliikkuu.fi/myytavat-asunnot/page/3/?_realtytype&kivi-item-asunto-osoite=Helsinki&kivi-item-asunto-hintamin&kivi-item-asunto-hintamax&kivi-item-asunto-pamin&submit=Hae
+https://neliotliikkuu.fi/myytavat-asunnot/page/4/?_realtytype&kivi-item-asunto-osoite=Helsinki&kivi-item-asunto-hintamin&kivi-item-asunto-hintamax&kivi-item-asunto-pamin&submit=Hae

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="D:\Wrok\grw_office\Office Work\Scrapping-Projects\Oct 23\Articles Projects\Chein Article Scraper\chein_articles\chein_articles\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Wrok\grw_office\Office Work\Scrapping-Projects\Oct 23\Articles Projects\Sneaker Article Scraper\sneaker\sneaker\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Enerzine Article scraper\enerzine\enerzine\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Sneaker Article Scraper\sneaker\sneaker\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Techno-science Articles Scraper\techno\techno\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Tekpolis Articles Scraper\tekpolis\tekpolis\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\The_Blog Articles Scraper\the_blog\the_blog\G_Sheet Data\previous_gsheet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

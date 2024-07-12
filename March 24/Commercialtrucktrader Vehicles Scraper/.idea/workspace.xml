@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="476d8989-90b0-4dfa-b2e9-505103383182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../April 204/Racingpost Matches Scraper/racingpost_scraper/racingpost_scraper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../April 204/Racingpost Matches Scraper/racingpost_scraper/racingpost_scraper/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jan 2024/Online Cub Products Scraper/online_cub/online_cub/input/login.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jan 2024/Online Cub Products Scraper/online_cub/online_cub/spiders/old_cub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adforum Telent Search Scraper/adforum_scraper/adforum_scraper/input/proxy_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adforum Telent Search Scraper/adforum_scraper/adforum_scraper/input/search_parameters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ahscompany Products Scraper/ashcompany/ashcompany/input/proxy_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ahscompany Products Scraper/ashcompany/ashcompany/spiders/old_ash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon Product Scraper/product_scraper/product_scraper/input/proxy_key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon Product Scraper/product_scraper/product_scraper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon Product Scraper/product_scraper/product_scraper/run_script.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citypopulation Population Scraper/citypopulation/citypopulation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citypopulation Population Scraper/citypopulation/citypopulation/run_script.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Scrapping-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Scrapping-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231313.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231313.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231339.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231339.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231344.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231344.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231350.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/output/Chemist Warehouse Products 060920231350.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Chemist Warehouse Products Scraper/chemistwarehouse/chemistwarehouse/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Mwk Shop/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Mwk Shop/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Mwk Shop/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Mwk Shop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Mwk Shop/mwk_shop/mwk_shop/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Mwk Shop/mwk_shop/mwk_shop/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/pccomponentes/pccomponentes/output/Pc Components Products details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/pccomponentes/pccomponentes/output/Pc Components Products details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/pccomponentes/pccomponentes/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/PcComponentes Products Scraper/pccomponentes/pccomponentes/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/Backup/output/fahrrad Products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/Backup/output/fahrrad Products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/Backup/output/z_flaconi Products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/Backup/output/z_flaconi Products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products part2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products part2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products part3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products part3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/Bad Asins/flaconi Products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/fahrrad Products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/fahrrad Products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/flaconi Products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/output/flaconi Products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders_old/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders_old/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders_old/info_logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../August 23/Sales Products Scraper (with Revenue Calculator)/sales_products/sales_products/spiders_old/info_logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/Cargurus New Cars Details.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/Cargurus New Cars Details.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/Newcars/Newcars/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus New Cars Details/Newcars/Newcars/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/Cargurus Used Cars Details.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/Cargurus Used Cars Details.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/output/Cargurus Used Cars Details.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/output/Cargurus Used Cars Details.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/output/Reports/Sold_Cars_2023-12-15_12-37-42-9256.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/output/Reports/Sold_Cars_2023-12-15_12-49-57-9762.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/spiders/usedcars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Cargurus Used Cars Details/cargurus/cargurus/spiders/usedcars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Catch Product Details/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/chatgpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/chatgpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/input/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Dogstshirts_ChatGpt Project/input/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/Mens Sneaker products.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/Mens Sneaker products.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/input/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/input/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/sneakerstuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Mens Sneaker products/mens_products/mens_products/spiders/sneakerstuff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Pistonheads Used Cars Details/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/tripadvisor/tripadvisor/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/Trip Advisor Hotel Details/tripadvisor/tripadvisor/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/images download from goolge drive/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/images download from goolge drive/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/images download from goolge drive/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/images download from goolge drive/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/login/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/login/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/login/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/login/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/login/login/login/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/login/login/login/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/properties_scraper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dec 23/properties_scraper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dec 23/subdomain finder project/pythonProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/amazon_scraper/amazon_scraper/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon Product Scraper/amazon_scraper/amazon_scraper/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/keyword_search/keyword_search/output/ebay products scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/keyword_search/keyword_search/output/ebay products scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/keyword_search/keyword_search/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Amazon_Ebay_bestbuy Keyword_Search Scraper/keyword_search/keyword_search/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/spiders/appsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/land_records/spiders/appsland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/AppsLand Tender Premises Scraper/AppsLand Tender Premises Scraper/land_records/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/flaconi_products/flaconi_products/output/Flaconi 03062023 1500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/flaconi_products/flaconi_products/output/Flaconi 03062023 1500.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/flaconi_products/flaconi_products/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Flaconi Product Scraper/flaconi_products/flaconi_products/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/shoes_records/shoes_records/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/shoes_records/shoes_records/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/shoes_records/shoes_records/spiders/temu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/Temu Products Scraper/shoes_records/shoes_records/spiders/temu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/tbmslive_drivers/input/credential.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/tbmslive_drivers/input/credential.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/tbmslive_drivers/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../July 23/tbmslive_drivers/tbmslive_drivers/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/4x4modsaustralia Products Scraper/modsaustralia_products/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Balaan/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Balaan/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Balaan/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Balaan/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Balaan/balaan/balaan/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Balaan/balaan/balaan/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/bestbuy_keywords/bestbuy_keywords/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/bestbuy_keywords/bestbuy_keywords/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/bestbuy_keywords/bestbuy_keywords/spiders/individuals_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Best Buy Scraper/bestbuy_keywords/bestbuy_keywords/spiders/individuals_pages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/booking/booking/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Booking Hotels Name Scraper/booking/booking/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/carvana_cars/carvana_cars/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Cars Details Scraper/carvana_cars/carvana_cars/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/gumtree_bicycles/gumtree_bicycles/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Gumtree Bicyles Scrapper/gumtree_bicycles/gumtree_bicycles/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/homes_properties/homes_properties/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/Homes Properties Scraper/homes_properties/homes_properties/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/abebooks/abebooks/abe/abe_2023-05-09T12-20-47.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/abebooks/abebooks/abe/abe_2023-05-09T12-20-47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/abebooks/abebooks/abe/abe_2023-05-09T12-26-47.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/abebooks/abebooks/abe/abe_2023-05-09T12-26-47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/ebook/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/ebook/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/ebook/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/ebook/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/scraper_django/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/scraper_django/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/scraper_django/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/scraper_django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../June 23/scraper_django/homes_properties/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../June 23/scraper_django/homes_properties/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/aphc/aphc/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Aphc Scraper/aphc/aphc/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/Booking_Travelor/Booking_Travelor/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Booking_Travelor Hotels Details/Booking_Travelor/Booking_Travelor/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Discord Refrell Bot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Discord Refrell Bot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Discord Refrell Bot/input/mine_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Discord Refrell Bot/input/mine_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/npr/npr/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/NPR audio scripts/npr/npr/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Pdf to Csv Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Pdf to Csv Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nov 23/Pdf to Csv Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nov 23/Pdf to Csv Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/chein_articles/chein_articles/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/chein_articles/chein_articles/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/chein_articles/chein_articles/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Chein Article Scraper/chein_articles/chein_articles/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/G_Sheet Data/previous_gsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/G_Sheet Data/previous_gsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Cleantuesdayparis Articles Scraper/cleantuesday/cleantuesday/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/enerzine/enerzine/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/enerzine/enerzine/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/enerzine/enerzine/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Enerzine Article scraper/enerzine/enerzine/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/G_Sheet Data/previous_gsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/G_Sheet Data/previous_gsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Sneaker Article Scraper/sneaker/sneaker/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/G_Sheet Data/previous_gsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/G_Sheet Data/previous_gsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Techno-science Articles Scraper/techno/techno/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/G_Sheet Data/previous_gsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/G_Sheet Data/previous_gsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/Tekpolis Articles Scraper/tekpolis/tekpolis/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/G_Sheet Data/previous_gsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/G_Sheet Data/previous_gsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Projects/The_Blog Articles Scraper/the_blog/the_blog/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/cleanrider Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/cleanrider Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/cleantuesdayparis Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/cleantuesdayparis Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/macg Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/macg Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/mmamania Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/mmamania Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/mobiwisy Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/mobiwisy Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/parlonsbasket Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/parlonsbasket Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/techno Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/techno Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/tekpolis Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/tekpolis Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/the_blog Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/the_blog Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/topito Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/output/topito Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Articles Scraper/Articles/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Defillama Coins Scrapper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Defillama Coins Scrapper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Defillama Coins Scrapper/defillama/defillama/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Defillama Coins Scrapper/defillama/defillama/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/inpos/inpos/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Inpos Products Scraper/inpos/inpos/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/gsheet_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/gsheet_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/MMAMania Articles Scraper/mmamania_articles/mmamania_articles/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/input/google_credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/input/google_credentials.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/output/cleantuesdayparis Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/output/cleantuesdayparis Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Multi Article Scrapers/articles_scraper/articles_scraper/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/087-4456 ACCUMULATOR GP-HYDRAULIC/087-4456 ACCUMU.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/087-4456 ACCUMULATOR GP-HYDRAULIC/087-4456 ACCUMU.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/145-5106 ACCUMULATOR GP-HYDRAULIC/145-5106 ACCUMU.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/145-5106 ACCUMULATOR GP-HYDRAULIC/145-5106 ACCUMU.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/173-3382 ACTUATOR GP-PUMP/173-3382 ACTUAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/173-3382 ACTUATOR GP-PUMP/173-3382 ACTUAT.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/173-3383 ACTUATOR GP-PUMP/173-3383 ACTUAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/173-3383 ACTUATOR GP-PUMP/173-3383 ACTUAT.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/204-2683 ACTUATOR GP-PUMP/204-2683 ACTUAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/204-2683 ACTUATOR GP-PUMP/204-2683 ACTUAT.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/204-2684 ACTUATOR GP-PUMP/204-2684 ACTUAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/204-2684 ACTUATOR GP-PUMP/204-2684 ACTUAT.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/227-8807 ACCUMULATOR GP-HYDRAULIC/227-8807 ACCUMU.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/227-8807 ACCUMULATOR GP-HYDRAULIC/227-8807 ACCUMU.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/5I-8416 ACCUMULATOR GP-HYDRAULIC/5I-8416 ACCUMUL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/output/5I-8416 ACCUMULATOR GP-HYDRAULIC/5I-8416 ACCUMUL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/Spare Product Scraper/spare/spare/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/cleantuesdayparis/cleantuesdayparis/output/cleantuesdayparis Articles Sscraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/cleantuesdayparis/cleantuesdayparis/output/cleantuesdayparis Articles Sscraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/cleantuesdayparis/cleantuesdayparis/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oct 23/cleantuesdayparis/cleantuesdayparis/cleantuesdayparis/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Fragrantica/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Fragrantica/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Fragrantica/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Fragrantica/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Fragrantica/fragrantica/fragrantica/output/Fragrantica Perfume Details 120920231536.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Fragrantica/fragrantica/fragrantica/output/Fragrantica Perfume Details 120920231536.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Fragrantica/fragrantica/fragrantica/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Fragrantica/fragrantica/fragrantica/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Giessereilexikon Dictionary Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Giessereilexikon Dictionary Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Giessereilexikon Dictionary Scraper/giessereilexikon/giessereilexikon/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Giessereilexikon Dictionary Scraper/giessereilexikon/giessereilexikon/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/indeed/indeed/output/indeed Jobs Detail 200920230104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/indeed/indeed/output/indeed Jobs Detail 200920230104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/indeed/indeed/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Indeed Job Search Scraper/indeed/indeed/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Properties Multi Scraper/.idea/Properties Multi Scraper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Properties Multi Scraper/.idea/Properties Multi Scraper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Properties Multi Scraper/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Properties Multi Scraper/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/multi_real_estates_scrapers/multi_real_estates_scrapers/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Real Estates Properties Scraper/multi_real_estates_scrapers/multi_real_estates_scrapers/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/output/realtorspider Agents Detail 200920230731.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/output/realtorspider Agents Detail 200920230731.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/output/zillow Agents Detail 220920231347.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/output/zillow Agents Detail 220920231347.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Realtor Agents Scraper/realtor/realtor/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 070920231711.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 070920231711.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 110920232112.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 110920232112.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 110920232116.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 110920232116.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 120920231214.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/output/Tabelog Restaurants 120920231214.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Tabelog/tabelog/tabelog/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/Topito/Topito/output/Topito Articles Scraper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/Topito/Topito/output/Topito Articles Scraper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/Topito/Topito/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Topito Article Scraper/Topito/Topito/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Twitter tweets scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Twitter tweets scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Twitter tweets scraper/twitter/twitter/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Twitter tweets scraper/twitter/twitter/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/weedmaps/weedmaps/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/Weedmaps Stores Scraper/weedmaps/weedmaps/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/bbb/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/bbb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/bbb/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/bbb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sep 23/bbb/BBB/BBB/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sep 23/bbb/BBB/BBB/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment/EuCitiesTemperatures.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment/EuCitiesTemperatures.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment/hw5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment/hw5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment/hw5/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment/hw5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csv_to_excel/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../csv_to_excel/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csv_to_excel/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../csv_to_excel/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../file_read/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../file_read/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../file_read/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../file_read/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../search.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eOhYjo3PB0bhc47AzSENZZHKZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.read_file.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.search.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.used_vehicles.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.vehicles.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Wrok/grw_office/Scrapping-Projects/March 24/Commercialtrucktrader Vehicles Scraper/commercialtrucktrader/commercialtrucktrader/spiders&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Wrok\grw_office\Scrapping-Projects\March 24\Commercialtrucktrader Vehicles Scraper\commercialtrucktrader\commercialtrucktrader\spiders" />
+      <recent name="D:\Wrok\grw_office\Scrapping-Projects\March 24\Commercialtrucktrader Vehicles Scraper\commercialtrucktrader\commercialtrucktrader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.used_vehicles">
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Commercialtrucktrader Vehicles Scraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="used_vehicles" type="PythonConfigurationType" factoryName="Python">
+      <module name="Commercialtrucktrader Vehicles Scraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="D:\Wrok\grw_office\Scrapping-Projects\March 24\Commercialtrucktrader Vehicles Scraper\commercialtrucktrader\commercialtrucktrader" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../scrapy" />
+      <option name="PARAMETERS" value="crawl used_vehicles" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vehicles" type="PythonConfigurationType" factoryName="Python">
+      <module name="Commercialtrucktrader Vehicles Scraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="D:\Wrok\grw_office\Scrapping-Projects\March 24\Commercialtrucktrader Vehicles Scraper\commercialtrucktrader\commercialtrucktrader" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../scrapy" />
+      <option name="PARAMETERS" value="crawl vehicles" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.vehicles" />
+      <item itemvalue="Python.used_vehicles" />
+      <item itemvalue="Python.search" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476d8989-90b0-4dfa-b2e9-505103383182" name="Changes" comment="" />
+      <created>1711781587188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711781587188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/read_file.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

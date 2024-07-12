@@ -1,0 +1,3 @@
+googlesheet_id==1CtCZfMAcGzAQy96HFAZRVXY8orXZ0MgFbqqwFOzGrvE
+tab_name==Tekpolis
+tab_id==0
