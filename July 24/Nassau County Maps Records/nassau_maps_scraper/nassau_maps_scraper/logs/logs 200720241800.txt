@@ -1,0 +1,30 @@
+Script Started at "20-07-2024 18:00:04"
+
+
+
+Search Combinations Left to Search: 13
+Year: 1900-1909 started for scraping
+1900-1909 Year Error: An error occurred: Message: session not created: No matching capabilities found
+Stacktrace:
+	GetHandleVerifier [0x003FC203+27395]
+	(No symbol) [0x00393E04]
+	(No symbol) [0x00291B7F]
+	(No symbol) [0x002FC457]
+	(No symbol) [0x002FB991]
+	(No symbol) [0x002FCE8C]
+	(No symbol) [0x002FCDAA]
+	(No symbol) [0x002F3736]
+	(No symbol) [0x002C7541]
+	(No symbol) [0x002C80BD]
+	GetHandleVerifier [0x006B3AB3+2876339]
+	GetHandleVerifier [0x00707F7D+3221629]
+	GetHandleVerifier [0x0047D674+556916]
+	GetHandleVerifier [0x0048478C+585868]
+	(No symbol) [0x0039CE44]
+	(No symbol) [0x00399858]
+	(No symbol) [0x003999F7]
+	(No symbol) [0x0038BF4E]
+	BaseThreadInitThunk [0x76A85D49+25]
+	RtlInitializeExceptionChain [0x773EBCEB+107]
+	RtlGetAppContainerNamedObjectPath [0x773EBC71+561]
+

@@ -133,7 +133,8 @@ class MedicineSearchSpider(Spider):
             self.write_logs(f"Error in parse Medicine Detail Name: {name} price{price} Error: {e}")
 
     def get_medicines_dict(self):
-        input_file = glob.glob('input/*.pdf')[0]
+        # input_file = glob.glob('input/*.pdf')[0]
+        input_file = glob.glob('input/*.pdf')[1]
 
         def format_text(text):
             lines = text.split('\n')

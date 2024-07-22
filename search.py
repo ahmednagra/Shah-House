@@ -12,6 +12,6 @@ def search_word_in_files(word):
 
 
 # Example usage:
-search_word_in_files('django')
+search_word_in_files('gpt')
 a = 1
 
