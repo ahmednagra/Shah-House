@@ -1,0 +1,268 @@
+Script Started at "27-07-2024 12:06:02"
+
+Search Combinations Left to Search: 1
+Row : {'section': '10', 'block': '10', 'lots': '5'} started for scraping
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/14/1992 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/14/1992 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/23/1992 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/23/1992 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/24/1992 Found Total Images: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/24/1992 Total images downloaded successfully: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1993 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1993 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/29/1993 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/29/1993 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/1/1993 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/2/1993 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/2/1993 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/9/1993 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/9/1993 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/18/1993 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/18/1993 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/6/1993 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/6/1993 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/14/1993 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/14/1993 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/8/1993 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/8/1993 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1994 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/28/1994 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/1/1994 Found Total Images: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/1/1994 Total images downloaded successfully: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/15/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/15/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/5/1994 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/5/1994 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/11/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/11/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/27/1994 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/27/1994 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/29/1994 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/29/1994 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/29/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/29/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/28/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/28/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/2/1994 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/2/1994 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/25/1995 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/25/1995 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/10/1995 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/10/1995 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/13/1995 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/13/1995 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/17/1995 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/17/1995 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/1/1995 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/1/1995 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/25/1995 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/25/1995 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1995 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1995 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/19/1995 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/19/1995 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/28/1995 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/28/1995 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/28/1995 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/28/1995 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/27/1995 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/27/1995 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/10/1996 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/10/1996 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/18/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/18/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/22/1996 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/22/1996 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/3/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/3/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/13/1996 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/13/1996 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/13/1996 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/13/1996 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/19/1996 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/19/1996 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/15/1996 Found Total Images: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/15/1996 Total images downloaded successfully: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/30/1996 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/30/1996 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/2/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/2/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/9/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/9/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/13/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/13/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/1/1996 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/1/1996 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/15/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/15/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/30/1996 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/30/1996 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/9/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/9/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/31/1997 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/31/1997 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/19/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/19/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/21/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/21/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/17/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/28/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/28/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/8/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/8/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/25/1997 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/25/1997 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1997 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1997 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/9/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/9/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/16/1997 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/16/1997 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/14/1997 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/14/1997 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/10/1997 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/10/1997 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/7/1998 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/7/1998 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/13/1998 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/13/1998 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/19/1998 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 2/19/1998 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/11/1998 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/11/1998 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/19/1998 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/19/1998 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/26/1998 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 5/26/1998 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/8/1998 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/8/1998 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/7/1998 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/7/1998 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1998 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1998 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/12/1998 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/12/1998 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/14/1998 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/14/1998 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/8/1998 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/8/1998 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/1/1998 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/1/1998 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/14/1998 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/14/1998 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/25/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/25/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/4/1999 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/4/1999 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/25/1999 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 3/25/1999 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/7/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/22/1999 Found Total Images: 8
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/22/1999 Total images downloaded successfully: 8
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/22/1999 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 4/22/1999 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/16/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 6/16/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Found Total Images: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 7/8/1999 Total images downloaded successfully: 3
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/11/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/25/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 8/25/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/13/1999 Found Total Images: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 9/13/1999 Total images downloaded successfully: 6
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/1/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/1/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/6/1999 Found Total Images: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/6/1999 Total images downloaded successfully: 7
+{'section': '10', 'block': '10', 'lots': '5'}  Year Range : 1900-1904 :: 20 records found on the home page.
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/8/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/8/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/29/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/29/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/29/1999 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 10/29/1999 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/8/1999 Found Total Images: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 11/8/1999 Total images downloaded successfully: 7
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/17/1999 Found Total Images: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/17/1999 Total images downloaded successfully: 5
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/22/1999 Found Total Images: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 12/22/1999 Total images downloaded successfully: 4
+{'section': '10', 'block': '10', 'lots': '5'} File Date: 1/19/2000 Found Total Images: 4

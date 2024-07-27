@@ -1,8 +1,0 @@
-Script Started at "20-07-2024 17:50:09"
-
-
-
-Search Combinations Left to Search: 13
-Year: 1900-1909 started for scraping
-Year: 1900-1909 Total Record Found 362
-Year: 1900-1909 Total Record scraped 1

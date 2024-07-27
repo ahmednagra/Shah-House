@@ -175,11 +175,12 @@ class TruckTradeSpider(Spider):
                 trim_no = ''.join(map(str, trim_no)) if isinstance(trim_no, list) else '' if trim_no is not None else ''
 
                 url = vehicle.get('ad_detail_url', {}).get('raw', '')
+                raw_model_name = vehicle.get('model_name', {}).get('raw', None)
 
                 item = OrderedDict()
                 item['Title'] = name
                 item['Make'] = v_make_name
-                item['Model'] = ''.join(vehicle.get('model_name', {}).get('raw', []))
+                item['Model'] = ''.join([str(element) for element in raw_model_name]) if isinstance(raw_model_name, (list, tuple)) else ''
                 item['Year'] = str(v_year).strip() if v_year else ''
                 item['Vin'] = vehicle.get('mfr_serial_num', {}).get('raw', '')
                 item['Location'] = f'{city}, {state}'
@@ -187,7 +188,6 @@ class TruckTradeSpider(Spider):
                 item['Price'] = "${:,.0f}".format(price) if price is not None and price != 0 else ''
                 item['Average Market Price'] = ''
                 item['Main Image'] = f'https://cdn1.commercialtrucktrader.com/v1/media/{image}.jpg' if image else ''
-                # item['Options'] = vehicle.get('description', {}).get('raw', '')
                 item['Options'] = ''
                 item['Mileage'] = "{:,.0f} Miles".format(mileage) if mileage else ''
                 item['Trim'] = trim_no if trim_no is not None else ''

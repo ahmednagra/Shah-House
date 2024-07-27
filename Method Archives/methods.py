@@ -112,8 +112,13 @@ def write_csv(date, info_text, case_info):
 
         # Check if the file is empty (using tell) and write header if needed
         if csvfile.tell() == 0:
+            # headers = item.keys()  # Get headers from the item dictionary
+            # writer.writerow(headers)
             writer.writerow(['Date', 'Information', 'Case Information'])
 
+        # # Write the data row
+        # row = [item.get(header, '') for header in headers]  # Ensure to get the value for each header
+        # writer.writerow(row)
         writer.writerow([date, info_text, case_info])
 
 def form_data(self, page_num, category_id):

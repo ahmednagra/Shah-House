@@ -61,7 +61,8 @@ class TruckTradeSpider(Spider):
         base_url = "https://www.commercialtrucktrader.com/search-results-data?condition=U&year={}:{}&priceFilterType=cash"
 
         # Loop through the year ranges
-        for start_year in range(1900, 2025):
+        # for start_year in range(1900, 2025):
+        for start_year in range(2022, 2024):     # test
             end_year = start_year + 1
             url = base_url.format(start_year, end_year)
             print(f"Requested years {start_year}: {end_year}")

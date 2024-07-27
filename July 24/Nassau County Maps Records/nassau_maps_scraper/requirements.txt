@@ -1,0 +1,5 @@
+itemadapter==0.8.0
+Requests==2.32.3
+Scrapy==2.9.0
+selenium==4.23.1
+webdriver_manager==4.0.1
